@@ -1,0 +1,241 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    background: url(login23.webp)no-repeat;
+    background-position: center;
+    background-size: cover;
+    overflow-x: hidden;
+    overflow-y:scroll;
+}
+
+/*---------------------------------------------------------------------*/
+
+.header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 1.3rem 10%;
+    /*navbar transp*/
+    background-color: rgba(0, 0, 0,.1);
+    backdrop-filter: blur(10px);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}
+
+.name{
+    color: black;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+span{
+    font-size: 30px;
+    color: rgb(248, 0, 99);
+}
+
+.navbar a{
+    font-size: 1.15rem;
+    color: black;
+    text-decoration: none;
+    font-weight: 500;
+    margin-left: 2.5rem;
+}
+/*nav a hover actions*/
+nav a:hover{
+    color: rgb(248, 0, 99);
+    transition: .3s;
+}
+
+.cart{
+    
+    height: 25px;
+    width: 25px;
+    color: white;
+    margin-left: 18rem;
+}
+
+/*-------------------------------------------------*/
+
+main{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.wrp{
+    
+    width: 500px;
+    background: gray;
+    background-color: rgba(0, 0, 0,.1);
+    backdrop-filter: blur(20px);
+    border-radius: 10px;
+    padding: 40px 40px;
+}
+
+.wrp h1{
+    font-size: 40px;
+    text-align: center;
+    color: black;
+}
+
+.wrp .txtBox{
+    width: 100%;
+    height: 50px;
+    margin: 30px 0;
+}
+
+.txtBox input{
+    width: 100%;
+    height: 100%;
+    background: transparent;
+    border: none;
+    outline: none;
+    border: 2px solid rgb(248, 0, 99);
+    border-radius: 40px;
+    font-size: 16px;
+    color: black;
+    padding: 20px 45px 20px 20px;
+}
+
+.txtBox input::placeholder{
+    color: black;
+}
+
+/*.txtBox i{
+    position: absolute;
+    margin-right: 35px;
+    margin-top: 20px;
+}*/
+
+.wrp .chkMe{
+    display: flex;
+    justify-content: space-between;
+    font-size: 15px;
+    margin: -15px 0 15px;
+}
+
+.chkMe label{
+    color: black;
+}
+
+.chkMe a{
+    color: black;
+    text-decoration: none;
+}
+
+.wrp .btnLogin{
+    width: 100%;
+    height: 45px;
+    background: rgb(142, 140, 140);
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    cursor: pointer;
+    font-size: 15px;
+    color: black;
+    font-weight: 500;
+}
+
+.btnLogin:hover{
+    background-color: rgb(248, 0, 99);
+    color: white;
+}
+
+.wrp .register{
+    font-size: 15px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.register a{
+    color: black;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.register a:hover{
+    color: rgb(248, 0, 99);
+}
+
+.register p{
+    color: black;
+}
+
+/*--------------------------------------------------------------*/
+
+.footer{
+    background-color: rgb(68, 68, 68);
+    padding: 50px;
+    
+}
+
+.container{
+    max-width: 1000px;
+    margin-left: 5rem;
+    
+}
+
+ul{
+    list-style: none;
+}
+
+.row1{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer-col{
+    color: white;
+    font-size: medium;
+    width: 50%;
+    padding: 0 15px;
+}
+
+.footer-col ul li:not(:last-child){
+    margin-bottom: 10px;
+}
+
+.footer-col span{
+    color: rgb(248, 0, 99);   
+}
+
+.footer-col .socialMdia a{
+    
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    background-color: rgba(255, 255, 255,0.2);
+    margin: 0 10px 10px 0;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 50%;
+    color: #ffffff;
+    transition: all 0.5s ease;
+}
+
+.footer-col .socialMdia a:hover{
+    color: #24262b;
+    background-color: #ffffff;
+
+}
+
+/*-------------------------------------------------*/
+
+.copyWrite{
+    text-align: center;
+    padding: 20px;
+    background-color:black;
+}
+
+.copyWrite p{
+    color: white;
+}

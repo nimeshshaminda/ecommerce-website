@@ -1,0 +1,241 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/*add image as cover*/
+body{
+    /*min-height: 100vh;
+    background: url('1496233.jpg')no-repeat;
+    background-size: cover;
+    background-position: center;*/
+    overflow-x: hidden;
+    overflow-y:scroll;
+}
+
+/*-----------------------------------------------------*/
+
+.header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 1.3rem 10%;
+    /*navbar transp*/
+    background-color: rgba(0, 0, 0,.1);
+    backdrop-filter: blur(10px);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}
+
+.name{
+    color: black;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+span{
+    font-size: 30px;
+    color: rgb(248, 0, 99);
+}
+
+
+
+.navbar a{
+    font-size: 1.15rem;
+    color: black;
+    text-decoration: none;
+    font-weight: 500;
+    margin-left: 2.5rem;
+}
+/*nav a hover actions*/
+.navbar a:hover{
+    color: rgb(248, 0, 99);
+    transition: .3s;
+}
+
+.login{
+    margin-left: 2rem;
+    border: none;
+    background: green;
+    padding: 12px 30px;
+    border-radius: 30px;
+    color: white;
+    font-size: medium;
+    font-weight: 500;
+    transition: .4s;
+    cursor: pointer;
+}
+/*login button hover actions*/
+.login:hover{
+    background-color: rgb(248, 0, 99);
+    color: black;
+    transition: .3s;
+    /*change scale of the button when curser pointed the button*/
+    transform: scale(1.1);
+}
+
+.cart{
+    
+    height: 25px;
+    width: 25px;
+    color: white;
+    margin-left: 10rem;
+}
+
+/*-----------------------------------------------------*/
+
+section{
+    padding: 5% 7.5%;
+}
+
+.mainH{
+    width: 100%;
+    height: 100vh;
+    background-image: url('1496233.jpg');
+    background-size: cover;
+    background-position: center;
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    align-items: center;
+}
+
+.maintxt h4{
+    color: rgb(248, 0, 99);
+    font-size: 60px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.maintxt h3{
+    color: black;
+    font-size: 15px;
+}
+
+.shop{
+    margin-top: 1.5rem;
+    border: none;
+    background-color: rgb(175, 174, 174);
+    padding: 12px 30px;
+    font-size: 20px;
+    font-weight: 500;
+    transition: .4s;
+    cursor: pointer;
+}
+
+.shop:hover{
+    background-color: rgb(248, 0, 99);
+    color: white;
+    transition: .3s;
+}
+
+section{
+    width: 100%;
+    margin: 40px auto;
+
+}
+
+/*-----------------------------------------------------*/
+
+.stock h1{
+    text-align: center;
+    color: black;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.row{
+    margin-top: 5rem;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+}
+.col h3{
+    margin-top: 3rem;
+    font-size: 30px;
+    color: black;
+}
+
+.col a:hover{
+    transform: scale(1.1);
+}
+
+.row .col{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/*-----------------------------------------------------*/
+
+.footer{
+    background-color: rgb(68, 68, 68);
+    padding: 50px;
+    
+}
+
+.container{
+    max-width: 1000px;
+    margin-left: 5rem;
+    
+}
+
+ul{
+    list-style: none;
+}
+
+.row1{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer-col{
+    color: white;
+    font-size: medium;
+    width: 50%;
+    padding: 0 15px;
+}
+
+.footer-col ul li:not(:last-child){
+    margin-bottom: 10px;
+}
+
+.footer-col span{
+    color: rgb(248, 0, 99);   
+}
+
+.footer-col .socialMdia a{
+    
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    background-color: rgba(255, 255, 255,0.2);
+    margin: 0 10px 10px 0;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 50%;
+    color: #ffffff;
+    transition: all 0.5s ease;
+}
+
+.footer-col .socialMdia a:hover{
+    color: #24262b;
+    background-color: #ffffff;
+
+}
+
+/*-------------------------------------------------*/
+
+.copyWrite{
+    text-align: center;
+    padding: 20px;
+    background-color:black;
+}
+
+.copyWrite p{
+    color: white;
+}
