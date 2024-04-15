@@ -1,14 +1,17 @@
 <!DOCTYPE html>
 <html>
     <head>
+        
         <meta charset="UTF-8">
         <meta name="main" content="width=device-width,initial-scale=1.0">
         <title>GIRLEE CLOTHING</title>
-        <link rel="stylesheet" href="login.css">
+        <link rel="stylesheet" href="register.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
         <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
         <script src="https://unpkg.com/scrollreveal"></script>
+        
     </head>
+
     <body>
         <header class="header">
             <h3 class="name"><span>GIRLEE</span> CLOTHING</h3>
@@ -20,40 +23,44 @@
                     <a href="#">ABOUT US</a>
                     <a href="#">CONTACT US</a>
                 
-                <a href="#"><img src="shopping-bag.png" alt="cart" class="cart"></a>
-
-                
+                <a href="#"><img src="shopping-bag (1).png" alt="cart" class="cart"></a>
             </nav>
         </header>
+
         <main>
             <section>
-                <div class="wrp">
+                <div class="wrap">
                     <form action="">
-                        <h1>LOGIN</h1>
-                        <div class="txtBox">
+                        <h1>REGISTRATION</h1>
+                        <div class="input">
+                            <input type="text" placeholder="NAME" required>
+                        </div>
+                        <div class="input">
                             <input type="text" placeholder="USERNAME" required>
-                            <!--<i class='bx bx-user'></i>-->
                         </div>
-                        <div class="txtBox">
+                        <div class="input">
+                            <input type="text" placeholder="ADDRESS" required>
+                        </div>
+                        <div class="input">
+                            <input type="email" placeholder="EMAIL" required>
+                        </div>
+                        <div class="input">
+                            <input type="text" placeholder="MOBILE NUMBER" required>
+                        </div>
+                        <div class="input">
                             <input type="password" placeholder="PASSWORD" required>
-                            <!--<i class='bx bxs-lock' ></i>-->
                         </div>
-                        <div class="chkMe">
-                            <label><input type="checkbox">&nbsp;REMEMBER ME</label>
-                            <a href="#">FORGOT PASSWORD?</a>
+                        <div class="input">
+                            <input type="password" placeholder="CONFIRMATION PASSWORD" required>
                         </div>
 
-                        <BUtton type="submit" class="btnLogin">LOGIN</BUtton>
-
-                        <div class="register">
-                            <p>DON'T HAVE AN ACCOUNT? <a href="#" onclick="location.href='register.php'">REGISTER</a></p>
-                        </div>
+                        <button type="submit" class="btnResi">REGISTER</button>
                     </form>
                 </div>
             </section>
         </main>
-        
-        
+
+
         <footer class="footer">
             <div class="container">
                 <div class="row1">
@@ -78,7 +85,7 @@
                 </div>
             </div>
         </footer>
-        
+
         <div class="copyWrite">
             <p>COPYWRITE 2024 GIRLEE CLOTHING(PVT)LTD. ALL RIGHTS RESERVED.</p>
         </div>
@@ -93,11 +100,11 @@
                 delay: 200
             });
 
-            ScrollReveal().reveal('.wrp h1',{delay:200,origin:'top'});
-            ScrollReveal().reveal('.txtBox',{delay:200,origin:'left'});
-            ScrollReveal().reveal('.chkMe',{delay:200,origin:'bottom'});
-            ScrollReveal().reveal('.btnLogin',{delay:200,origin:'right'});
-            ScrollReveal().reveal('.register',{delay:200,origin:'bottom'});
+            ScrollReveal().reveal('.wrap h1',{delay:200,origin:'top'});
+            ScrollReveal().reveal('.input',{delay:200,origin:'left'});
+            
+            ScrollReveal().reveal('.btnResi',{delay:200,origin:'right'});
+            
             
             ScrollReveal().reveal('.footer-col',{delay:200,origin:'left'});
 
