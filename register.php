@@ -30,7 +30,8 @@
         <main>
             <section>
                 <div class="wrap">
-                    <form action="">
+
+                    <form action="" method="post">
                         <h1>REGISTRATION</h1>
                         <div class="input">
                             <input type="text" placeholder="NAME" required>

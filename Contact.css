@@ -1,0 +1,270 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+body{
+    background: url(925050-bigthumbnail.webp)no-repeat;
+    backdrop-filter: blur(5px);
+    background-position: center;
+    background-size: cover;
+    overflow-x: hidden;
+    overflow-y:scroll;
+}
+
+/*-----------------------------------------------------*/
+
+.header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 1.3rem 10%;
+    background-color: rgba(0, 0, 0,.1);
+    backdrop-filter: blur(10px);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}
+
+.name{
+    color: black;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+span{
+    font-size: 30px;
+    color: rgb(248, 0, 99);
+}
+
+
+
+.navbar a{
+    font-size: 1.15rem;
+    color: black;
+    text-decoration: none;
+    font-weight: 500;
+    margin-left: 2.5rem;
+}
+
+nav a:hover{
+    color: rgb(248, 0, 99);
+    transition: .3s;
+}
+
+.login{
+    margin-left: 2rem;
+    border: none;
+    background: green;
+    padding: 12px 30px;
+    border-radius: 30px;
+    color: white;
+    font-size: medium;
+    font-weight: 500;
+    transition: .4s;
+    cursor: pointer;
+}
+
+.login:hover{
+    background-color: rgb(248, 0, 99);
+    color: black;
+    transition: .3s;
+    transform: scale(1.1);
+}
+
+.cart{
+    
+    height: 25px;
+    width: 25px;
+    color: white;
+    margin-left: 10rem;
+}
+
+/*-----------------------------------------------------*/
+
+.conct{
+    position: relative;
+    min-height: 55vh;
+    padding: 50px 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: black;
+}
+
+.conct h2{
+    font-size: 50px;
+    font-weight: bold;
+    
+}
+
+.conct p{
+    margin-top: 20px;
+    stroke: black;
+}
+
+.container1 .contInfo{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+    margin-top: -60px;
+    margin-bottom: 80px;
+    max-height: 50vh;
+    color: black;
+}
+
+.container1 .contInfo .box{
+    position: relative;
+    padding: 20px;
+    display: flex;
+}
+
+.container1 .contInfo .box ul{
+    list-style: none;
+}
+
+.container1{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+form{
+    margin-bottom: 140px;
+    background-color: rgba(0, 0, 0,.1);
+    backdrop-filter: blur(5px);
+    padding: 40px;
+    border-radius: 10px;
+}
+
+form h3{
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 10px;
+    color: white;
+}
+
+form .inputBox input{
+    width: 100%;
+    height: 35px;
+    margin-bottom: 10px;
+    border-style: none;
+    background-color: transparent;
+    border-bottom-style:solid;
+    border-color: rgb(248, 0, 99);
+    font-size: 15px;
+    color: white;
+}
+
+form .inputBox textarea{
+    width: 100%;
+    height:35px;
+    margin-bottom: 30px;
+    border-style: none;
+    background-color: transparent;
+    border-bottom-style: solid;
+    border-color: rgb(248, 0, 99);
+    font-size: 15px;
+    color: white;
+}
+
+form button{
+    width: 160px;
+    height: 45px;
+    margin-left: 150px;
+    border-radius: 0px;
+    border-style: none;
+    background-color: white;
+    font-size: 15px;
+    font-weight: 100;
+}
+
+form button:hover{
+    cursor: pointer;
+    background-color: rgb(248, 0, 99);
+    color: white;
+}
+
+
+
+
+
+
+/*--------------------------------------------------------------*/
+
+.footer{
+    background-color: rgb(68, 68, 68);
+    padding: 50px;
+    
+}
+
+.container{
+    max-width: 1000px;
+    margin-left: 5rem;
+    
+}
+
+ul{
+    list-style: none;
+}
+
+.row1{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer-col{
+    color: white;
+    font-size: medium;
+    width: 50%;
+    padding: 0 15px;
+}
+
+.footer-col ul li:not(:last-child){
+    margin-bottom: 10px;
+}
+
+.footer-col span{
+    color: rgb(248, 0, 99);   
+}
+
+.footer-col .socialMdia a{
+    
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    background-color: rgba(255, 255, 255,0.2);
+    margin: 0 10px 10px 0;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 50%;
+    color: #ffffff;
+    transition: all 0.5s ease;
+}
+
+.footer-col .socialMdia a:hover{
+    color: #24262b;
+    background-color: #ffffff;
+
+}
+
+/*-------------------------------------------------*/
+
+.copyWrite{
+    text-align: center;
+    padding: 20px;
+    background-color:black;
+}
+
+.copyWrite p{
+    color: white;
+}
