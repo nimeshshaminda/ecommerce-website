@@ -53,6 +53,7 @@
                     <div class="price">
                         <h5>A LINE SCRIPT CASUAL DRESSES</h5>
                         <p>RS.1000.00 - RS.1500.00</p>
+                        <button class="btnCart">ADD TO CART</button>
                     </div>
                 </div>
 
@@ -68,6 +69,7 @@
                     <div class="price">
                         <h5>BOHEMAIN FLORA DRESSES</h5>
                         <p>RS.1000.00 - RS.1500.00</p>
+                        <button class="btnCart">ADD TO CART</button>
                     </div>
                 </div>
 
@@ -83,6 +85,7 @@
                     <div class="price">
                         <h5>SUMMER DRESSES</h5>
                         <p>RS.1000.00 - RS.1500.00</p>
+                        <button class="btnCart">ADD TO CART</button>
                     </div>
                 </div>
 
@@ -98,6 +101,7 @@
                     <div class="price">
                         <h5>MIDI DRESSES</h5>
                         <p>RS.1000.00 - RS.1500.00</p>
+                        <button class="btnCart">ADD TO CART</button>
                     </div>
                 </div>
 
@@ -113,6 +117,7 @@
                     <div class="price">
                         <h5>MINI DRESSES</h5>
                         <p>RS.1000.00 - RS.1500.00</p>
+                        <button class="btnCart">ADD TO CART</button>
                     </div>
                 </div>
             </div>

@@ -144,10 +144,17 @@ nav a:hover{
     color: orange;
 }
 
-.cartbtn{
+.btnCart{
+    width: 75%;
     border: none;
-    background-color: yellow;
-    width: 100%;
+    background-color: black;
+    color: white;
+    padding: 8px 10px;
+    cursor: pointer;
+}
+
+.btnCart:hover{
+    background-color: rgb(248, 0, 99);
 }
 
 /*----------------------------------------------------------------*/

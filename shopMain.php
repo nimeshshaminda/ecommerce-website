@@ -62,6 +62,7 @@
                     <div class="price">
                         <h5>HALF ZIP HOODIE</h5>
                         <p>RS.1000.00 - RS.1500.00</p>
+                        <button class="btnCart">ADD TO CART</button>
                     </div>
                 </div>
 
@@ -77,6 +78,7 @@
                     <div class="price">
                         <h5>TEDDY HOODIE</h5>
                         <p>RS.1000.00 - RS.1500.00</p>
+                        <button class="btnCart">ADD TO CART</button>
                     </div>
                 </div>
 
@@ -92,6 +94,7 @@
                     <div class="price">
                         <h5>SUMMER DRESSES</h5>
                         <p>RS.1000.00 - RS.1500.00</p>
+                        <button class="btnCart">ADD TO CART</button>
                     </div>
                 </div>
 
@@ -107,6 +110,7 @@
                     <div class="price">
                         <h5>RIPPER JEANS</h5>
                         <p>RS.1000.00 - RS.1500.00</p>
+                        <button class="btnCart">ADD TO CART</button>
                     </div>
                 </div>
 
@@ -122,6 +126,7 @@
                     <div class="price">
                         <h5>BOHEMAIN FLORA DRESSES</h5>
                         <p>RS.1000.00 - RS.1500.00</p>
+                        <button class="btnCart">ADD TO CART</button>
                     </div>
                 </div>
 
@@ -137,6 +142,7 @@
                     <div class="price">
                         <h5>V NECK T-SHIRTS</h5>
                         <p>RS.1000.00 - RS.1500.00</p>
+                        <button class="btnCart">ADD TO CART</button>
                     </div>
                 </div>
 
@@ -152,6 +158,7 @@
                     <div class="price">
                         <h5>HIGH WAISTED JEANS</h5>
                         <p>RS.1000.00 - RS.1500.00</p>
+                        <button class="btnCart">ADD TO CART</button>
                     </div>
                 </div>
 
@@ -167,6 +174,7 @@
                     <div class="price">
                         <h5>CASUAL T-SHIRTS</h5>
                         <p>RS.1000.00 - RS.1500.00</p>
+                        <button class="btnCart">ADD TO CART</button>
                     </div>
                 </div>
 
@@ -182,6 +190,7 @@
                     <div class="price">
                         <h5>SPRING JACKETS</h5>
                         <p>RS.1000.00 - RS.1500.00</p>
+                        <button class="btnCart">ADD TO CART</button>
                     </div>
                 </div>
 
@@ -197,6 +206,7 @@
                     <div class="price">
                         <h5>A LINE SCRIPT CASUAL DRESSES</h5>
                         <p>RS.1000.00 - RS.1500.00</p>
+                        <button class="btnCart">ADD TO CART</button>
                     </div>
                 </div>
 
@@ -212,6 +222,7 @@
                     <div class="price">
                         <h5>SOFT TEDDY HOODIES</h5>
                         <p>RS.1000.00 - RS.1500.00</p>
+                        <button class="btnCart">ADD TO CART</button>
                     </div>
                 </div>
 
@@ -227,6 +238,7 @@
                     <div class="price">
                         <h5>BLACK LEATHER JACKETS</h5>
                         <p>RS.1000.00 - RS.1500.00</p>
+                        <button class="btnCart">ADD TO CART</button>
                     </div>
                 </div>
 
@@ -242,6 +254,7 @@
                     <div class="price">
                         <h5>GRAPHIC T-SHIRTS</h5>
                         <p>RS.1000.00 - RS.1500.00</p>
+                        <button class="btnCart">ADD TO CART</button>
                     </div>
                 </div>
 
@@ -257,6 +270,7 @@
                     <div class="price">
                         <h5>PETITE BLACK CROPPED</h5>
                         <p>RS.1000.00 - RS.1500.00</p>
+                        <button class="btnCart">ADD TO CART</button>
                     </div>
                 </div>
 
@@ -272,6 +286,7 @@
                     <div class="price">
                         <h5>DENIM JACKETS</h5>
                         <p>RS.1000.00 - RS.1500.00</p>
+                        <button class="btnCart">ADD TO CART</button>
                     </div>
                 </div>
 
@@ -287,6 +302,7 @@
                     <div class="price">
                         <h5>FITTED HOODIES</h5>
                         <p>RS.1000.00 - RS.1500.00</p>
+                        <button class="btnCart">ADD TO CART</button>
                     </div>
                 </div>
 
@@ -302,6 +318,7 @@
                     <div class="price">
                         <h5>CARDIGAN JACKETS</h5>
                         <p>RS.1000.00 - RS.1500.00</p>
+                        <button class="btnCart">ADD TO CART</button>
                     </div>
                 </div>
 
@@ -317,6 +334,7 @@
                     <div class="price">
                         <h5>ANKLE JEANS</h5>
                         <p>RS.1000.00 - RS.1500.00</p>
+                        <button class="btnCart">ADD TO CART</button>
                     </div>
                 </div>
 
@@ -332,6 +350,7 @@
                     <div class="price">
                         <h5>KNIT HOODIES</h5>
                         <p>RS.1000.00 - RS.1500.00</p>
+                        <button class="btnCart">ADD TO CART</button>
                     </div>
                 </div>
 
@@ -347,6 +366,7 @@
                     <div class="price">
                         <h5>CROPPED JACKETS</h5>
                         <p>RS.1000.00 - RS.1500.00</p>
+                        <button class="btnCart">ADD TO CART</button>
                     </div>
                 </div>
 

@@ -53,6 +53,7 @@
                     <div class="price">
                         <h5>CASUAL T-SHIRTS</h5>
                         <p>RS.1000.00 - RS.1500.00</p>
+                        <button class="btnCart">ADD TO CART</button>
                     </div>
                 </div>
 
@@ -68,6 +69,7 @@
                     <div class="price">
                         <h5>CROP T-SHIRTS</h5>
                         <p>RS.1000.00 - RS.1500.00</p>
+                        <button class="btnCart">ADD TO CART</button>
                     </div>
                 </div>
 
@@ -83,6 +85,7 @@
                     <div class="price">
                         <h5>GRAPHIC T-SHIRTS</h5>
                         <p>RS.1000.00 - RS.1500.00</p>
+                        <button class="btnCart">ADD TO CART</button>
                     </div>
                 </div>
 
@@ -98,6 +101,7 @@
                     <div class="price">
                         <h5>V NECK T-SHIRTS</h5>
                         <p>RS.1000.00 - RS.1500.00</p>
+                        <button class="btnCart">ADD TO CART</button>
                     </div>
                 </div>
 
@@ -113,6 +117,7 @@
                     <div class="price">
                         <h5>PETITE BLACK CROPPED</h5>
                         <p>RS.1000.00 - RS.1500.00</p>
+                        <button class="btnCart">ADD TO CART</button>
                     </div>
                 </div>
             </div>
