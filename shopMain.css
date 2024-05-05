@@ -144,6 +144,12 @@ nav a:hover{
     color: orange;
 }
 
+.cartbtn{
+    border: none;
+    background-color: yellow;
+    width: 100%;
+}
+
 /*----------------------------------------------------------------*/
 
 .footer{

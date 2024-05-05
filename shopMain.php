@@ -15,18 +15,18 @@
 
             <nav class="navbar">
                 
-                    <a href="Gilee.html">HOME</a>
-                    <a href="shopMain.html">SHOP</a>
+                    <a href="Gilee.php">HOME</a>
+                    <a href="shopMain.php">SHOP</a>
                     <a href="#">ABOUT US</a>
-                    <a href="Contact.html">CONTACT US</a>
+                    <a href="Contact.php">CONTACT US</a>
                     
-                    <a href="cart.html">
+                    <a href="cart.php">
                         <img src="shopping-bag.png" alt="Cart" class="cart">
                     </a>
                     
              <!-- <a href="#"><img src="shopping-bag.png" alt="cart" class="cart"></a>-->
 
-                <button class="login" type="button" onclick="location.href='login.html'">LOGIN</button>
+                <button class="login" type="button" onclick="location.href='login.php'">LOGIN</button>
             </nav>
         </header>    
 
@@ -40,11 +40,11 @@
                     <button type="button" class="menuB">ALL</button>
                     <button type="button" class="menuB">BEST SELLERS</button>
                     <button type="button" class="menuB">NEW ARRIVAL</button>
-                    <button type="button" class="menuB" onclick="location.href='hoodie.html'">HOODIES</button>
-                    <button type="button" class="menuB" onclick="location.href='t-shirt.html'">T-SHIRTS</button>
-                    <button type="button" class="menuB" onclick="location.href='jacket.html'">JACKETS</button>
-                    <button type="button" class="menuB" onclick="location.href='dress.html'">DRESSESS</button>
-                    <button type="button" class="menuB" onclick="location.href='jeans.html'">JEANS</button>
+                    <button type="button" class="menuB" onclick="location.href='hoodie.php'">HOODIES</button>
+                    <button type="button" class="menuB" onclick="location.href='t-shirt.php'">T-SHIRTS</button>
+                    <button type="button" class="menuB" onclick="location.href='jacket.php'">JACKETS</button>
+                    <button type="button" class="menuB" onclick="location.href='dress.php'">DRESSESS</button>
+                    <button type="button" class="menuB" onclick="location.href='jeans.php'">JEANS</button>
                 </div>
             </div>
 
@@ -62,7 +62,6 @@
                     <div class="price">
                         <h5>HALF ZIP HOODIE</h5>
                         <p>RS.1000.00 - RS.1500.00</p>
-                        <button class="cart">ADD TO CART</button>
                     </div>
                 </div>
 
