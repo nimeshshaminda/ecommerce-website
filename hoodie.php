@@ -20,7 +20,7 @@
                     <a href="#">ABOUT US</a>
                     <a href="Contact.php">CONTACT US</a>
                 
-                <a href="#"><img src="shopping-bag.png" alt="cart" class="cart"></a>
+                <a href="#"><img src="images/shopping-bag.png" alt="cart" class="cart"></a>
 
                 <button class="login" type="button" onclick="location.href='login.php'">LOGIN</button>
             </nav>
@@ -58,7 +58,7 @@
                 </div>
 
                 <div class="row2">
-                    <img src="teddyHoo.jpeg" alt="">
+                    <img src="images/teddyHoo.jpeg" alt="">
                     <div class="rattings">
                         <i class='bx bx-star'></i>
                         <i class='bx bx-star'></i>
@@ -74,7 +74,7 @@
                 </div>
 
                 <div class="row2">
-                    <img src="hoodie3.jpg" alt="">
+                    <img src="images/hoodie3.jpg" alt="">
                     <div class="rattings">
                         <i class='bx bx-star'></i>
                         <i class='bx bx-star'></i>
@@ -90,7 +90,7 @@
                 </div>
 
                 <div class="row2">
-                    <img src="FITTEDHOO.jpeg" alt="">
+                    <img src="images/FITTEDHOO.jpeg" alt="">
                     <div class="rattings">
                         <i class='bx bx-star'></i>
                         <i class='bx bx-star'></i>
@@ -106,7 +106,7 @@
                 </div>
 
                 <div class="row2">
-                    <img src="KNITHOO.jpeg" alt="">
+                    <img src="images/KNITHOO.jpeg" alt="">
                     <div class="rattings">
                         <i class='bx bx-star'></i>
                         <i class='bx bx-star'></i>

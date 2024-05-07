@@ -20,7 +20,7 @@
                     <a href="#">ABOUT US</a>
                     <a href="Contact.php">CONTACT US</a>
                 
-                <a href="#"><img src="shopping-bag.png" alt="cart" class="cart"></a>
+                <a href="#"><img src="images/shopping-bag.png" alt="cart" class="cart"></a>
 
                 <button class="login" type="button" onclick="location.href='login.php'">LOGIN</button>
             </nav>
@@ -42,7 +42,7 @@
             <div class="collection">
 
                 <div class="row2">
-                    <img src="highWaistedJeans2.jpg" alt="">
+                    <img src="images/highWaistedJeans2.jpg" alt="">
                     <div class="rattings">
                         <i class='bx bx-star'></i>
                         <i class='bx bx-star'></i>
@@ -58,7 +58,7 @@
                 </div>
 
                 <div class="row2">
-                    <img src="rippedjeans1.jpeg" alt="">
+                    <img src="images/rippedjeans1.jpeg" alt="">
                     <div class="rattings">
                         <i class='bx bx-star'></i>
                         <i class='bx bx-star'></i>
@@ -74,7 +74,7 @@
                 </div>
 
                 <div class="row2">
-                    <img src="trouserJeans4.jpeg" alt="">
+                    <img src="images/trouserJeans4.jpeg" alt="">
                     <div class="rattings">
                         <i class='bx bx-star'></i>
                         <i class='bx bx-star'></i>
@@ -90,7 +90,7 @@
                 </div>
 
                 <div class="row2">
-                    <img src="wideLegJeans3.jpeg" alt="">
+                    <img src="images/wideLegJeans3.jpeg" alt="">
                     <div class="rattings">
                         <i class='bx bx-star'></i>
                         <i class='bx bx-star'></i>
@@ -106,7 +106,7 @@
                 </div>
 
                 <div class="row2">
-                    <img src="ankeljeans.jpeg" alt="">
+                    <img src="images/ankeljeans.jpeg" alt="">
                     <div class="rattings">
                         <i class='bx bx-star'></i>
                         <i class='bx bx-star'></i>

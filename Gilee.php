@@ -20,7 +20,7 @@
                     <a href="#">ABOUT US</a>
                     <a href="Contact.php">CONTACT US</a>
                 
-                <a href="#"><img src="shopping-bag.png" alt="cart" class="cart"></a>
+                <a href="#"><img src="images/shopping-bag.png" alt="cart" class="cart"></a>
 
                 <button class="login" type="button" onclick="location.href='login.php'">LOGIN</button>
 
@@ -43,25 +43,25 @@
 
             <div class="row">
                 <div class="col">
-                    <a href="hoodie.php" class="hooimg"><img src="h.webp" alt="hoodies" height="500px" width="250px"></a>
+                    <a href="hoodie.php" class="hooimg"><img src="images/h.webp" alt="hoodies" height="500px" width="250px"></a>
                     <div class="cont">
                         <h3>HOODIES</h3>
                     </div>
                 </div>
                 <div class="col">
-                    <a href="t-shirt.php"><img src="tt.jpg" alt="tSHIRTS" height="500px" width="250px"></a>
+                    <a href="t-shirt.php"><img src="images/tt.jpg" alt="tSHIRTS" height="500px" width="250px"></a>
                     <h3>T-SHIRTS</h3>
                 </div>
                 <div class="col">
-                    <a href="jacket.php"><img src="OIP.jpeg" alt="jackets" height="500px" width="250px"></a>
+                    <a href="jacket.php"><img src="images/OIP.jpeg" alt="jackets" height="500px" width="250px"></a>
                     <h3>JACKETS</h3>
                 </div>
                 <div class="col">
-                    <a href="dress.php"><img src="Women-s-Floral-Print-A-Line-Midi-Dress-Vintage-High-Waist-Pleated-Three-Quarter-Sleeve-Dresses.webp" alt="dresses" height="500px" width="250px"></a>
+                    <a href="dress.php"><img src="images/Women-s-Floral-Print-A-Line-Midi-Dress-Vintage-High-Waist-Pleated-Three-Quarter-Sleeve-Dresses.webp" alt="dresses" height="500px" width="250px"></a>
                     <h3>DRESSESS</h3>
                 </div>
                 <div class="col">
-                    <a href="jeans.php"><img src="OIP (1).jpeg" alt="jeans" height="500px" width="250px"></a>
+                    <a href="jeans.php"><img src="images/OIP (1).jpeg" alt="jeans" height="500px" width="250px"></a>
                     <h3>JEANS</h3>
                 </div>
             </div>

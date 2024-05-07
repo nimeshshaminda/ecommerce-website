@@ -20,7 +20,7 @@
                     <a href="#">ABOUT US</a>
                     <a href="Contact.php">CONTACT US</a>
                 
-                <a href="#"><img src="shopping-bag.png" alt="cart" class="cart"></a>
+                <a href="#"><img src="images/shopping-bag.png" alt="cart" class="cart"></a>
 
                 <button class="login" type="button" onclick="location.href='login.php'">LOGIN</button>
             </nav>
@@ -42,7 +42,7 @@
             <div class="collection">
 
                 <div class="row2">
-                    <img src="casualt4.webp" alt="">
+                    <img src="images/casualt4.webp" alt="">
                     <div class="rattings">
                         <i class='bx bx-star'></i>
                         <i class='bx bx-star'></i>
@@ -58,7 +58,7 @@
                 </div>
 
                 <div class="row2">
-                    <img src="cropt1.jpeg" alt="">
+                    <img src="images/cropt1.jpeg" alt="">
                     <div class="rattings">
                         <i class='bx bx-star'></i>
                         <i class='bx bx-star'></i>
@@ -74,7 +74,7 @@
                 </div>
 
                 <div class="row2">
-                    <img src="graphict3.jpeg" alt="">
+                    <img src="images/graphict3.jpeg" alt="">
                     <div class="rattings">
                         <i class='bx bx-star'></i>
                         <i class='bx bx-star'></i>
@@ -90,7 +90,7 @@
                 </div>
 
                 <div class="row2">
-                    <img src="neckt5.avif" alt="">
+                    <img src="images/neckt5.avif" alt="">
                     <div class="rattings">
                         <i class='bx bx-star'></i>
                         <i class='bx bx-star'></i>
@@ -106,7 +106,7 @@
                 </div>
 
                 <div class="row2">
-                    <img src="petite black cropped2.webp" alt="">
+                    <img src="images/petite black cropped2.webp" alt="">
                     <div class="rattings">
                         <i class='bx bx-star'></i>
                         <i class='bx bx-star'></i>

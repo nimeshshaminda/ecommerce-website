@@ -20,7 +20,7 @@
                     <a href="#">ABOUT US</a>
                     <a href="Contact.php">CONTACT US</a>
                 
-                <a href="#"><img src="shopping-bag.png" alt="cart" class="cart"></a>
+                <a href="#"><img src="images/shopping-bag.png" alt="cart" class="cart"></a>
 
                 
             </nav>

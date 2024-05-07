@@ -21,7 +21,7 @@
                     <a href="Contact.php">CONTACT US</a>
                     
                     <a href="cart.php">
-                        <img src="shopping-bag.png" alt="Cart" class="cart">
+                        <img src="images/shopping-bag.png" alt="Cart" class="cart">
                     </a>
                     
              <!-- <a href="#"><img src="shopping-bag.png" alt="cart" class="cart"></a>-->
@@ -51,7 +51,7 @@
             <div class="collection">
 
                 <div class="row2">
-                    <img src="h.webp" alt="">
+                    <img src="images/h.webp" alt="">
                     <div class="rattings">
                         <i class='bx bx-star'></i>
                         <i class='bx bx-star'></i>
@@ -67,7 +67,7 @@
                 </div>
 
                 <div class="row2">
-                    <img src="teddyHoo.jpeg" alt="">
+                    <img src="images/teddyHoo.jpeg" alt="">
                     <div class="rattings">
                         <i class='bx bx-star'></i>
                         <i class='bx bx-star'></i>
@@ -83,7 +83,7 @@
                 </div>
 
                 <div class="row2">
-                    <img src="summerd4.jpeg" alt="">
+                    <img src="images/summerd4.jpeg" alt="">
                     <div class="rattings">
                         <i class='bx bx-star'></i>
                         <i class='bx bx-star'></i>
@@ -99,7 +99,7 @@
                 </div>
 
                 <div class="row2">
-                    <img src="rippedjeans1.jpeg" alt="">
+                    <img src="images/rippedjeans1.jpeg" alt="">
                     <div class="rattings">
                         <i class='bx bx-star'></i>
                         <i class='bx bx-star'></i>
@@ -115,7 +115,7 @@
                 </div>
 
                 <div class="row2">
-                    <img src="longSleeveBohemainFlorald1.webp" alt="">
+                    <img src="images/longSleeveBohemainFlorald1.webp" alt="">
                     <div class="rattings">
                         <i class='bx bx-star'></i>
                         <i class='bx bx-star'></i>
@@ -131,7 +131,7 @@
                 </div>
 
                 <div class="row2">
-                    <img src="neckt5.avif" alt="">
+                    <img src="images/neckt5.avif" alt="">
                     <div class="rattings">
                         <i class='bx bx-star'></i>
                         <i class='bx bx-star'></i>
@@ -147,7 +147,7 @@
                 </div>
 
                 <div class="row2">
-                    <img src="highWaistedJeans2.jpg" alt="">
+                    <img src="images/highWaistedJeans2.jpg" alt="">
                     <div class="rattings">
                         <i class='bx bx-star'></i>
                         <i class='bx bx-star'></i>
@@ -163,7 +163,7 @@
                 </div>
 
                 <div class="row2">
-                    <img src="casualt4.webp" alt="">
+                    <img src="images/casualt4.webp" alt="">
                     <div class="rattings">
                         <i class='bx bx-star'></i>
                         <i class='bx bx-star'></i>
@@ -179,7 +179,7 @@
                 </div>
 
                 <div class="row2">
-                    <img src="springJ4.jpeg" alt="">
+                    <img src="images/springJ4.jpeg" alt="">
                     <div class="rattings">
                         <i class='bx bx-star'></i>
                         <i class='bx bx-star'></i>
@@ -195,7 +195,7 @@
                 </div>
 
                 <div class="row2">
-                    <img src="AlineScriptcasuald2.webp" alt="">
+                    <img src="images/AlineScriptcasuald2.webp" alt="">
                     <div class="rattings">
                         <i class='bx bx-star'></i>
                         <i class='bx bx-star'></i>
@@ -211,7 +211,7 @@
                 </div>
 
                 <div class="row2">
-                    <img src="hoodie3.jpg" alt="">
+                    <img src="images/hoodie3.jpg" alt="">
                     <div class="rattings">
                         <i class='bx bx-star'></i>
                         <i class='bx bx-star'></i>
@@ -227,7 +227,7 @@
                 </div>
 
                 <div class="row2">
-                    <img src="blackleatherj1.jpeg" alt="">
+                    <img src="images/blackleatherj1.jpeg" alt="">
                     <div class="rattings">
                         <i class='bx bx-star'></i>
                         <i class='bx bx-star'></i>
@@ -243,7 +243,7 @@
                 </div>
 
                 <div class="row2">
-                    <img src="graphict3.jpeg" alt="">
+                    <img src="images/graphict3.jpeg" alt="">
                     <div class="rattings">
                         <i class='bx bx-star'></i>
                         <i class='bx bx-star'></i>
@@ -259,7 +259,7 @@
                 </div>
 
                 <div class="row2">
-                    <img src="petite black cropped2.webp" alt="">
+                    <img src="images/petite black cropped2.webp" alt="">
                     <div class="rattings">
                         <i class='bx bx-star'></i>
                         <i class='bx bx-star'></i>
@@ -275,7 +275,7 @@
                 </div>
 
                 <div class="row2">
-                    <img src="denimJ2.jpeg" alt="">
+                    <img src="images/denimJ2.jpeg" alt="">
                     <div class="rattings">
                         <i class='bx bx-star'></i>
                         <i class='bx bx-star'></i>
@@ -291,7 +291,7 @@
                 </div>
 
                 <div class="row2">
-                    <img src="FITTEDHOO.jpeg" alt="">
+                    <img src="images/FITTEDHOO.jpeg" alt="">
                     <div class="rattings">
                         <i class='bx bx-star'></i>
                         <i class='bx bx-star'></i>
@@ -307,7 +307,7 @@
                 </div>
 
                 <div class="row2">
-                    <img src="CARDIGANJACKETS.jpeg" alt="">
+                    <img src="images/CARDIGANJACKETS.jpeg" alt="">
                     <div class="rattings">
                         <i class='bx bx-star'></i>
                         <i class='bx bx-star'></i>
@@ -323,7 +323,7 @@
                 </div>
 
                 <div class="row2">
-                    <img src="ankeljeans.jpeg" alt="">
+                    <img src="images/ankeljeans.jpeg" alt="">
                     <div class="rattings">
                         <i class='bx bx-star'></i>
                         <i class='bx bx-star'></i>
@@ -339,7 +339,7 @@
                 </div>
 
                 <div class="row2">
-                    <img src="KNITHOO.jpeg" alt="">
+                    <img src="images/KNITHOO.jpeg" alt="">
                     <div class="rattings">
                         <i class='bx bx-star'></i>
                         <i class='bx bx-star'></i>
@@ -355,7 +355,7 @@
                 </div>
 
                 <div class="row2">
-                    <img src="CROPPEDJACK.jpeg" alt="">
+                    <img src="images/CROPPEDJACK.jpeg" alt="">
                     <div class="rattings">
                         <i class='bx bx-star'></i>
                         <i class='bx bx-star'></i>
