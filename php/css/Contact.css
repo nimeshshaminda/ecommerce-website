@@ -7,7 +7,7 @@
 
 
 body{
-    background: url(images/925050-bigthumbnail.webp)no-repeat;
+    background: url(../images/925050-bigthumbnail.webp)no-repeat;
     backdrop-filter: blur(5px);
     background-position: center;
     background-size: cover;

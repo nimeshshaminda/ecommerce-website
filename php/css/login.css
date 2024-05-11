@@ -5,17 +5,15 @@
     font-family: 'Times New Roman', Times, serif;
 }
 
-/*add image as cover*/
 body{
-    /*min-height: 100vh;
-    background: url('1496233.jpg')no-repeat;
+    background: url(../images/login23.webp)no-repeat;
+    background-position: center;
     background-size: cover;
-    background-position: center;*/
     overflow-x: hidden;
     overflow-y:scroll;
 }
 
-/*-----------------------------------------------------*/
+/*---------------------------------------------------------------------*/
 
 .header{
     position: fixed;
@@ -43,8 +41,6 @@ span{
     color: rgb(248, 0, 99);
 }
 
-
-
 .navbar a{
     font-size: 1.15rem;
     color: black;
@@ -53,30 +49,9 @@ span{
     margin-left: 2.5rem;
 }
 /*nav a hover actions*/
-.navbar a:hover{
+nav a:hover{
     color: rgb(248, 0, 99);
     transition: .3s;
-}
-
-.login{
-    margin-left: 2rem;
-    border: none;
-    background: green;
-    padding: 12px 30px;
-    border-radius: 30px;
-    color: white;
-    font-size: medium;
-    font-weight: 500;
-    transition: .4s;
-    cursor: pointer;
-}
-/*login button hover actions*/
-.login:hover{
-    background-color: rgb(248, 0, 99);
-    color: black;
-    transition: .3s;
-    /*change scale of the button when curser pointed the button*/
-    transform: scale(1.1);
 }
 
 .cart{
@@ -84,95 +59,118 @@ span{
     height: 25px;
     width: 25px;
     color: white;
-    margin-left: 10rem;
+    margin-left: 18rem;
 }
 
+/*-------------------------------------------------*/
 
-
-/*-----------------------------------------------------*/
-
-section{
-    padding: 5% 7.5%;
-}
-
-.mainH{
-    width: 100%;
-    height: 100vh;
-    background-image: url('images/1496233.jpg');
-    background-size: cover;
-    background-position: center;
-    display: grid;
-    grid-template-columns: repeat(1,1fr);
+main{
+    display:flex;
+    justify-content: center;
     align-items: center;
+    min-height: 100vh;
 }
 
-.maintxt h4{
-    color: rgb(248, 0, 99);
-    font-size: 60px;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+.wrp{
+    
+    width: 500px;
+    background: gray;
+    background-color: rgba(0, 0, 0,.1);
+    backdrop-filter: blur(20px);
+    border-radius: 10px;
+    padding: 40px 40px;
 }
 
-.maintxt h3{
-    color: black;
-    font-size: 15px;
-}
-
-.shop{
-    margin-top: 1.5rem;
-    border: none;
-    background-color: rgb(175, 174, 174);
-    padding: 12px 30px;
-    font-size: 20px;
-    font-weight: 500;
-    transition: .4s;
-    cursor: pointer;
-}
-
-.shop:hover{
-    background-color: rgb(248, 0, 99);
-    color: white;
-    transition: .3s;
-}
-
-section{
-    width: 100%;
-    margin: 40px auto;
-
-}
-
-/*-----------------------------------------------------*/
-
-.stock h1{
+.wrp h1{
+    font-size: 40px;
     text-align: center;
     color: black;
-    font-size: 40px;
-    font-weight: 800;
 }
 
-.row{
-    margin-top: 5rem;
-    display: flex;
-    align-items: center;
+.wrp .txtBox{
     width: 100%;
-    justify-content: space-between;
+    height: 50px;
+    margin: 30px 0;
 }
-.col h3{
-    margin-top: 3rem;
-    font-size: 30px;
+
+.txtBox input{
+    width: 100%;
+    height: 100%;
+    background: transparent;
+    border: none;
+    outline: none;
+    border: 2px solid rgb(248, 0, 99);
+    border-radius: 40px;
+    font-size: 16px;
+    color: black;
+    padding: 20px 45px 20px 20px;
+}
+
+.txtBox input::placeholder{
     color: black;
 }
 
-.col a:hover{
-    transform: scale(1.1);
-}
+/*.txtBox i{
+    position: absolute;
+    margin-right: 35px;
+    margin-top: 20px;
+}*/
 
-.row .col{
+.wrp .chkMe{
     display: flex;
-    flex-direction: column;
-    align-items: center;
+    justify-content: space-between;
+    font-size: 15px;
+    margin: -15px 0 15px;
 }
 
-/*-----------------------------------------------------*/
+.chkMe label{
+    color: black;
+}
+
+.chkMe a{
+    color: black;
+    text-decoration: none;
+}
+
+.wrp .btnLogin{
+    width: 100%;
+    height: 45px;
+    background: rgb(142, 140, 140);
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    cursor: pointer;
+    font-size: 15px;
+    color: black;
+    font-weight: 500;
+}
+
+.btnLogin:hover{
+    background-color: rgb(248, 0, 99);
+    color: white;
+}
+
+.wrp .register{
+    font-size: 15px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.register a{
+    color: black;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.register a:hover{
+    color: rgb(248, 0, 99);
+}
+
+.register p{
+    color: black;
+}
+
+/*--------------------------------------------------------------*/
 
 .footer{
     background-color: rgb(68, 68, 68);
@@ -241,6 +239,3 @@ ul{
 .copyWrite p{
     color: white;
 }
-
-/*--------------------------------------------------*/
-

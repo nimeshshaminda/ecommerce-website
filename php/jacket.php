@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta name="main" content="width=device-width,initial-scale=1.0">
         <title>GIRLEE CLOTHING</title>
-        <link rel="stylesheet" href="jeans.css">
+        <link rel="stylesheet" href="./css/jacket.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
         <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
         <script src="https://unpkg.com/scrollreveal"></script>
@@ -16,11 +16,11 @@
             <nav class="navbar">
                 
                     <a href="Gilee.php">HOME</a>
-                    <a href="shopMain.php">SHOP</a>
+                    <a href="main.php">SHOP</a>
                     <a href="#">ABOUT US</a>
                     <a href="Contact.php">CONTACT US</a>
                 
-                <a href="#"><img src="images/shopping-bag.png" alt="cart" class="cart"></a>
+                    <a href="cart.php"><img src="images/shopping-bag.png" alt="cart" class="cart"></a>
 
                 <button class="login" type="button" onclick="location.href='login.php'">LOGIN</button>
             </nav>
@@ -28,12 +28,12 @@
 
         <section class="hoodieStock">
             <div class="title">
-                <h2>JEANS COLLECTION</h2>
+                <h2>JACKET COLLECTION</h2>
             </div>
             
             <div class="row">
                 <div>
-                    <button type="button" class="menuB" onclick="location.href='shopMain.php'">ALL</button>
+                    <button type="button" class="menuB" onclick="location.href='main.php'">ALL</button>
                     <button type="button" class="menuB">BEST SELLERS</button>
                     <button type="button" class="menuB">NEW ARRIVAL</button>
                 </div>
@@ -42,7 +42,7 @@
             <div class="collection">
 
                 <div class="row2">
-                    <img src="images/highWaistedJeans2.jpg" alt="">
+                    <img src="images/blackleatherj1.jpeg" alt="">
                     <div class="rattings">
                         <i class='bx bx-star'></i>
                         <i class='bx bx-star'></i>
@@ -51,14 +51,14 @@
                         <i class='bx bxs-star-half' ></i>
                     </div>
                     <div class="price">
-                        <h5>HIGH WAISTED JEANS</h5>
+                        <h5>BLACK LEATHER JACKETS</h5>
                         <p>RS.1000.00 - RS.1500.00</p>
                         <button class="btnCart">ADD TO CART</button>
                     </div>
                 </div>
 
                 <div class="row2">
-                    <img src="images/rippedjeans1.jpeg" alt="">
+                    <img src="images/classicLightweightJ3.webp" alt="">
                     <div class="rattings">
                         <i class='bx bx-star'></i>
                         <i class='bx bx-star'></i>
@@ -67,14 +67,14 @@
                         <i class='bx bxs-star-half' ></i>
                     </div>
                     <div class="price">
-                        <h5>RIPPED JEANS</h5>
+                        <h5>CLASSIC LIGHT WEIGHT JACKETS</h5>
                         <p>RS.1000.00 - RS.1500.00</p>
                         <button class="btnCart">ADD TO CART</button>
                     </div>
                 </div>
 
                 <div class="row2">
-                    <img src="images/trouserJeans4.jpeg" alt="">
+                    <img src="images/denimJ2.jpeg" alt="">
                     <div class="rattings">
                         <i class='bx bx-star'></i>
                         <i class='bx bx-star'></i>
@@ -83,14 +83,14 @@
                         <i class='bx bxs-star-half' ></i>
                     </div>
                     <div class="price">
-                        <h5>TROUSER JEANS</h5>
+                        <h5>DENIM JACKETS</h5>
                         <p>RS.1000.00 - RS.1500.00</p>
                         <button class="btnCart">ADD TO CART</button>
                     </div>
                 </div>
 
                 <div class="row2">
-                    <img src="images/wideLegJeans3.jpeg" alt="">
+                    <img src="images/CROPPEDJACK.jpeg" alt="">
                     <div class="rattings">
                         <i class='bx bx-star'></i>
                         <i class='bx bx-star'></i>
@@ -99,14 +99,14 @@
                         <i class='bx bxs-star-half' ></i>
                     </div>
                     <div class="price">
-                        <h5>WIDE LEG JEANS</h5>
+                        <h5>CROPPED JACKETS</h5>
                         <p>RS.1000.00 - RS.1500.00</p>
                         <button class="btnCart">ADD TO CART</button>
                     </div>
                 </div>
 
                 <div class="row2">
-                    <img src="images/ankeljeans.jpeg" alt="">
+                    <img src="images/CARDIGANJACKETS.jpeg" alt="">
                     <div class="rattings">
                         <i class='bx bx-star'></i>
                         <i class='bx bx-star'></i>
@@ -115,7 +115,7 @@
                         <i class='bx bxs-star-half' ></i>
                     </div>
                     <div class="price">
-                        <h5>ANKLE JEANS</h5>
+                        <h5>CARDIGAN JACKETS</h5>
                         <p>RS.1000.00 - RS.1500.00</p>
                         <button class="btnCart">ADD TO CART</button>
                     </div>
@@ -153,7 +153,7 @@
             <p>COPYWRITE 2024 GIRLEE CLOTHING(PVT)LTD. ALL RIGHTS RESERVED.</p>
         </div>
 
-        <!------------------------------------------------------------------------->
+        <!---------------------------------------------------------------------->
 
         <script>
             ScrollReveal({

@@ -3,45 +3,45 @@
 <head>
   <meta charset="UTF-8" />
   <title>Dashboard</title>
-  <link rel="stylesheet" href="orders.css" />
+  <link rel="stylesheet" href="./css/orders.css" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"/>
 </head>
  <body>
     <div class="sidebar">
         <div class="logo"></div>
             <ul class="menu">
-                <li class="active">
-                    <a href="Dashboard.html">
+                <li >
+                    <a href="Dashboard.php">
                       <i class="fas fa-tachometer-alt"></i>
                      <span>Dashboard</span>
                     </a>
                 </li>
-                <li>
-                    <a href="orders.html">
+                <li class="active">
+                    <a href="orders.php">
                       <i class="fas fa-box"></i>
                      <span>Orders</span>
                     </a>
                 </li>
                 <li>
-                    <a href="inventory.html">
+                    <a href="inventory.php">
                       <i class="fas fa-warehouse"></i>
                      <span>Inventory</span>
                     </a>
                 </li>
                 <li>
-                    <a href="customer Insights.html">
+                    <a href="customer Insights.php">
                       <i class="fas fa-users"></i>
                      <span>Customer Insight</span>
                     </a>
                 </li>
                 <li>
-                    <a href="faq.html">
+                    <a href="faq.php">
                       <i class="fas fa-question-circle"></i>
                      <span>FAQ</span>
                     </a>
                 </li>
                 <li>
-                    <a href="settings.html">
+                    <a href="settings.php">
                       <i class="fas fa fa-cog"></i>
                      <span>Settings</span>
                     </a>

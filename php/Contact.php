@@ -4,7 +4,7 @@
             <meta charset="UTF-8">
             <meta name="main" content="width=device-width,initial-scale=1.0">
             <title>GIRLEE CLOTHING</title>
-            <link rel="stylesheet" href="Contact.css">
+            <link rel="stylesheet" href="./css/Contact.css">
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
             <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
             <script src="https://unpkg.com/scrollreveal"></script>
@@ -18,7 +18,7 @@
             <nav class="navbar">
                 
                     <a href="Gilee.php">HOME</a>
-                    <a href="shopMain.php">SHOP</a>
+                    <a href="main.php">SHOP</a>
                     <a href="#">ABOUT US</a>
                     <a href="Contact.php">CONTACT US</a>
                 

@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta name="main" content="width=device-width,initial-scale=1.0">
         <title>GIRLEE CLOTHING</title>
-        <link rel="stylesheet" href="girleeStyle.css">
+        <link rel="stylesheet" href="./css/girleeStyle.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
         <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
         <script src="https://unpkg.com/scrollreveal"></script>
@@ -16,11 +16,11 @@
             <nav class="navbar">
                 
                     <a href="Gilee.php">HOME</a>
-                    <a href="shopMain.php">SHOP</a>
+                    <a href="main.php">SHOP</a>
                     <a href="#">ABOUT US</a>
                     <a href="Contact.php">CONTACT US</a>
                 
-                <a href="#"><img src="images/shopping-bag.png" alt="cart" class="cart"></a>
+                <a href="cart.php"><img src="images/shopping-bag.png" alt="cart" class="cart"></a>
 
                 <button class="login" type="button" onclick="location.href='login.php'">LOGIN</button>
 
@@ -32,7 +32,7 @@
             <div class="maintxt">
                 <h4>WELCOME TO <br>GIRLEE CLOTHING</h4><br>
                 <h3>WE'RE OFFERING HIGH QUALITY PRODUCT TO OUR VALUABLE CUSTOMERS</h3>
-                <button class="shop" onclick="location.href='shopMain.php'">SHOP NOW <i class='bx bx-right-arrow-alt' ></i></button>
+                <button class="shop" onclick="location.href='main.php'">SHOP NOW <i class='bx bx-right-arrow-alt' ></i></button>
             </div>
         </section>
 
